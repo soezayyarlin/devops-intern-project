@@ -20,4 +20,3 @@ Here’s a list of the main tools I'm focusing on learning:
 - Build larger projects that integrate multiple DevOps tools.
 - Share my projects and insights with others to help them on their own learning journeys.
 
-Thank you for following along on my path to becoming a DevOps professional!
